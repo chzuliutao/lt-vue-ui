@@ -34,6 +34,7 @@ export default {
 }
 ```
 
+
 ## 组件-CountDown
 ---
 ##### <font color='#7370ff'>使用方式</font>
@@ -58,6 +59,7 @@ time|props|倒计时|默认60s
 state|props|是否开启倒计时|默认false
 change|event|点击事件|--
 p标签|slot|占位|默认获取验证码
+
 
 ## 插件-Load
 ---
@@ -90,6 +92,7 @@ color|data|提示语颜色|#fff
 bg|data|中间load的背景色|rgba(0,0,0,0.3)
 bgWrap|data|全屏背景色|rgba(0,0,0,0)
 
+
 ## 组件-ModelPane
 ---
 ##### <font color='#7370ff'>使用方式</font>
@@ -115,6 +118,7 @@ content|type|desc|默认值
 v-model|input|是否显示蒙版|false
 name|props|动画效果|fade
 div标签|slot|内容占位|-
+
 
 ## 插件-Toast
 --- 
@@ -143,6 +147,7 @@ export default {
   }
 }
 ```
+
 
 ## 插件-VReg
 --- 

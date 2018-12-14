@@ -21,6 +21,7 @@ import ModelPane from './ModelPane/index.js'
 import Load from './Load/index.js'
 import PageWrap from './PageWrap/index.js'
 import Tab from './Tab/index'
+import Tip from './tip/tip.js'
 import Toast from './Toast/index.js'
 import VReg from './VReg/index.js'
 import WaveNumber from './WaveNumber/index'
@@ -30,6 +31,7 @@ const components = [
   ModelPane,
   PageWrap,
   Tab,
+  Tip,
   WaveNumber
 ]
 
@@ -45,6 +47,7 @@ const install = function (Vue) {
   // 插件
   Vue.use(Alert)
   Vue.use(Load)
+  Vue.use(Tip)
   Vue.use(Toast)
   // 指令
   VReg(Vue)
@@ -62,6 +65,7 @@ export default {
   Load,
   PageWrap,
   Tab,
+  Tip,
   Toast,
   VReg,
   WaveNumber

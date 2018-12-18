@@ -1,35 +1,35 @@
 {
-  "name": "lt-vue-ui",
-  "description": "A Vue.js 2.0 UI Toolkit for Web.",
-  "version": "0.0.2",
-  "author": "liutao <1046592787@qq.com>",
-  "license": "MIT",
-  "main": "src/packages/index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chzuliutao/lt-vue-ui.git"
-  },
-  "scripts": {
-    "dev": "vue-cli-service serve",
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
-  },
-  "dependencies": {
-    "vue": "^2.5.16"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.0-beta.15",
-    "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
-    "@vue/cli-service": "^3.0.0-beta.15",
-    "@vue/eslint-config-standard": "^3.0.0-rc.3",
-    "less": "^3.0.4",
-    "less-loader": "^4.1.0",
-    "vue-template-compiler": "^2.5.16"
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
-  ]
+    "name": "lt-vue-ui",
+    "description": "A Vue.js 2.0 UI Toolkit for Web.",
+    "version": "0.0.3",
+    "author": "liutao <1046592787@qq.com>",
+    "license": "MIT",
+    "main": "src/packages/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chzuliutao/lt-vue-ui.git"
+    },
+    "scripts": {
+        "dev": "vue-cli-service serve",
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "vue": "^2.5.16"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.0.0-beta.15",
+        "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
+        "@vue/cli-service": "^3.0.0-beta.15",
+        "@vue/eslint-config-standard": "^3.0.0-rc.3",
+        "less": "^3.0.4",
+        "less-loader": "^4.1.0",
+        "vue-template-compiler": "^2.5.16"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not ie <= 8"
+    ]
 }

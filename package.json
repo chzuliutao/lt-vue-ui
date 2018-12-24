@@ -1,7 +1,7 @@
 {
     "name": "lt-vue-ui",
     "description": "A Vue.js 2.0 UI Toolkit for Web.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "liutao <1046592787@qq.com>",
     "license": "MIT",
     "main": "src/packages/index.js",

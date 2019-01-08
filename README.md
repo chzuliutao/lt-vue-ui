@@ -15,6 +15,10 @@ npm i lt-vue-ui -g
 ### 说明文档src/examples/doc [点击查看在线文档](http://www.timesky.top/npm/lt-vue-ui/index.html#/main/Intro)
 
 ## History
+### 0.0.4 / 2018-12-24
+
+  - Bugclose Tips plugin
+
 ### 0.0.3 / 2018-12-18
 
   - Update README.md
